@@ -12,7 +12,8 @@ body
 
 p
 { padding: 0 0 20px 0;
-  line-height: 1.9em;}
+  line-height: 1.9em;
+  text-align:justify;}
 
 img
 { border: 0;}
